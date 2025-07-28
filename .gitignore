@@ -76,5 +76,5 @@ dist/
 build/
 
 # API keys and sensitive data
-config.js
+# config.js
 secrets.js
