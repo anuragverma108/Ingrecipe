@@ -1,4 +1,4 @@
-# IngrecipeAI - HTML/CSS/JS Version
+- HTML/CSS/JS Version
 
 A modern, responsive web application that provides personalized recipe recommendations based on user health data, preferences, and available ingredients. Built with vanilla HTML, CSS, JavaScript and Firebase for authentication and database management.
 
